@@ -1,0 +1,11 @@
+ipykernel
+python-dotenv
+langchain-openai
+langchain-community
+langchain-ollama
+langchain-huggingface
+langchain-groq
+langchain
+langchain-chroma
+Pypdf
+langchain_core
